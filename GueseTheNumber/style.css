@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Press+Start+2P&display=swap');
+@import url("https://fonts.googleapis.com/css?family=Press+Start+2P&display=swap");
 
 * {
   margin: 0;
@@ -12,7 +12,7 @@ html {
 }
 
 body {
-  font-family: Wingdings, Trattatelloy, Brush Script MT;
+  font-family: Trattatelloy, Brush Script MT;
   color: #eee;
   background-color: #222;
   /* background-color: #60b347; */
@@ -31,6 +31,10 @@ main {
   display: flex;
   align-items: center;
   justify-content: space-around;
+}
+
+.hidden {
+  display: none;
 }
 
 .left {
