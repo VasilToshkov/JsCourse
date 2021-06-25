@@ -2,8 +2,10 @@
 
 Tasks to solve from the course:
 
-//Fundamentals Part2
+#################  FUNDAMENDALS PART 2  ########################
+
 Coding Challenge #1
+
 Back to the two gymnastics teams, the Dolphins and the Koalas! There is a new 
 gymnastics discipline, which works differently.
 Each team competes 3 times, and then the average of the 3 scores is calculated (so 
@@ -28,6 +30,7 @@ Test data:
 ################################################################
 
 Coding Challenge #2
+
 Steven is still building his tip calculator, using the same rules as before: Tip 15% of 
 the bill if the bill value is between 50 and 300, and if the value is different, the tip is 
 20%.
@@ -42,3 +45,5 @@ below
 the function you created before
 4. Bonus: Create an array 'total' containing the total values, so the bill + tip
 Test data: 125, 555 and 44
+
+###################################################################
